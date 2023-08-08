@@ -6,9 +6,9 @@ It is something like the Windows console, there are many different commands here
 
 List of all commands:
 
-version - Prints the version of the program to the console.\n
-discordrpc - Opens a window where you can connect Discord Rich Presence with your settings.\n
-install python - Installs Python on your PC.\n
+version - Prints the version of the program to the console.
+discordrpc - Opens a window where you can connect Discord Rich Presence with your settings.
+install python - Installs Python on your PC.
 documentation/help/commands/command - Opens this documentation for using this program.
 
 # Screenshots
